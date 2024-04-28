@@ -1,1 +1,2 @@
-Naimovich Yauheni Python
+Naimovich Yauheni
+Python
