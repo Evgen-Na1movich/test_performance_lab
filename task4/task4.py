@@ -15,3 +15,5 @@ if __name__ == '__main__':
         print(min_moves(sys.argv[1]))
     except ValueError:
         print("Initial data files are empty")
+
+

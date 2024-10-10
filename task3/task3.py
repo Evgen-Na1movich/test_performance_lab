@@ -26,7 +26,12 @@ def main(values_path, tests_path, report_path):
 
 
 if __name__ == '__main__':
-    values_file = sys.argv[1]
-    tests_file = sys.argv[2]
-    report_file = sys.argv[3]
+    # values_file = sys.argv[1]
+    # tests_file = sys.argv[2]
+    # report_file = sys.argv[3]
+    values_file = 'values.json'
+    tests_file = 'tests.json'
+    report_file = 'report.json'
+
+
     main(values_file, tests_file, report_file)
